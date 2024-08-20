@@ -5,5 +5,4 @@ node
 redis
 nginx
 python
-docker.osgeo.org/geoserver
 rabbitmq:management
