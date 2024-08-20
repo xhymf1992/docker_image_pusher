@@ -2,3 +2,8 @@ ubuntu:22.04
 mysql:5.7
 postgis/postgis
 node
+redis
+nginx
+python
+docker.osgeo.org/geoserver
+rabbitmq:management
