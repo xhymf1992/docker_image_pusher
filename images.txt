@@ -1,8 +1,1 @@
-ubuntu:22.04
-mysql:5.7
-postgis/postgis:14-3.4
-node
-redis
-nginx
-python
-rabbitmq:management
+python:3.9
