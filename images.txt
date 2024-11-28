@@ -1,2 +1,3 @@
-mongo:latest
---platform=linux/arm64
+mongo
+
+--platform=linux/arm64/v8
