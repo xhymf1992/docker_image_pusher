@@ -1,2 +1,2 @@
-mongo
-
+mongo:latest
+--platform=linux/arm64
