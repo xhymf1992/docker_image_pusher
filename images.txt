@@ -1,1 +1,1 @@
-geoserver-docker.osgeo.org/geoserver:2.25.5
+pgrouting/pgrouting:16-3.4-3.6.3
