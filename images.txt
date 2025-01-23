@@ -1,1 +1,1 @@
-pgrouting/pgrouting:16-3.4-3.6.3
+pgrouting/pgrouting:16-3.4-3.6.1
