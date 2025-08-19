@@ -1,1 +1,1 @@
-filebrowser/filebrowser
+docker.io/apache/kafka
