@@ -1,1 +1,1 @@
-docker.io/apache/kafka
+docker.io/tobix/wine:stable
