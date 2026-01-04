@@ -1,1 +1,1 @@
-docker.io/tobix/wine:stable
+kong:alpine
