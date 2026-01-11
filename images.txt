@@ -1,1 +1,1 @@
-pantsel/konga:latest
+gitlab/gitlab-ce:latest
