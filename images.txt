@@ -1,1 +1,1 @@
-openclaw/openclaw:latest
+geoserver-docker.osgeo.org/geoserver:2.26.3
