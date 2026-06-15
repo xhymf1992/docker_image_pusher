@@ -1,1 +1,1 @@
-bitnami/etcd
+bitnami/etcd:3.5
