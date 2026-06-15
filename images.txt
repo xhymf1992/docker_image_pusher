@@ -1,1 +1,1 @@
-apache/apisix:3.16.0-debian
+gcr.io/etcd-development/etcd:v3.6.12
