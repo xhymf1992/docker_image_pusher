@@ -1,1 +1,1 @@
-apache/apisix
+apache/apisix:3.16
