@@ -1,1 +1,1 @@
-pramsey/pg_tileserv:latest-alpine-3.12
+pramsey/pg_tileserv:latest
