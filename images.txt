@@ -1,1 +1,1 @@
-crunchydata/pg_tileserv:latest
+pramsey/pg_tileserv:latest-alpine-3.12
