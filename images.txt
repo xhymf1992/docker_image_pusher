@@ -1,1 +1,1 @@
-pramsey/pg_tileserv:latest
+rabbitmq:management
