@@ -1,1 +1,1 @@
-gcr.io/distroless/static-debian12:nonroot
+gcr.io/distroless/static-debian12
