@@ -1,1 +1,1 @@
-postgis/postgis:18-3.6
+gcr.io/distroless/static-debian12:nonroot
