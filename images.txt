@@ -1,1 +1,1 @@
-rancher/mirrored-pause:3.10.2
+nginx:alpine
