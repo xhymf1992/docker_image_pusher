@@ -1,1 +1,1 @@
-rabbitmq:4.3-management
+rancher/mirrored-pause:3.10.2
