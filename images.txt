@@ -1,1 +1,1 @@
-apache/apisix:3.21
+docker.io/python:3.12.7-alpine
